@@ -1,0 +1,4 @@
+22:07:40	 Tµi kho¶n: kuetli	 Nh©n vËt: ThieuLam	 UUID: 2700464078	 CÊp: 	1	 M«n ph¸i: 	 IP: 192.168.1.11 : 5172	 Xu: 0	 Tæng tiÒn v¹n: 	0
+22:11:17	 Tµi kho¶n: kuetli	 Nh©n vËt: ThieuLam	 UUID: 2700464078	 CÊp: 	1	 M«n ph¸i: 	 IP: 192.168.1.11 : 5214	 Xu: 0	 Tæng tiÒn v¹n: 	0
+22:24:03	 Tµi kho¶n: kuetli	 Nh©n vËt: ThieuLam	 UUID: 2700464078	 CÊp: 	150	 M«n ph¸i: 	 IP: 192.168.1.11 : 5305	 Xu: 0	 Tæng tiÒn v¹n: 	10000000
+22:29:10	 Tµi kho¶n: kuetli	 Nh©n vËt: ThieuLam	 UUID: 2700464078	 CÊp: 	150	 M«n ph¸i: 	 IP: 192.168.1.11 : 5330	 Xu: 0	 Tæng tiÒn v¹n: 	10000000
